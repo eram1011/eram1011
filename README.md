@@ -26,6 +26,6 @@ Let's team up! I'm specifically looking for opportunities to work on predictive 
 
 #### Contact  
 
-LinkedIn: [www.linkedin.com/in/eram-nishat-4704261a9]  
+LinkedIn: [www.linkedin.com/in/eramel1011]  
 Email: [enishat1011@gmail.com]  
 
