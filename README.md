@@ -6,7 +6,12 @@ My primary goal is to develop and apply machine learning expertise, especially w
 
 #### Skills
 
-My technical toolkit includes: Python, Scikit-learn, PyTorch, SQL, Linux, Git, Flask, and GCP (Google Cloud Platform).
+**Languages:** Python, Java, SQL, Bash | 
+**Backend:** FastAPI, PostgreSQL, Redis, REST API design, SQLAlchemy | 
+**AI integration:**                OpenAI/Anthropic API, LangChain, pgvector, prompt engineering | 
+**Cloud:**                        AWS (EC2, S3, Lambda, RDS, ECS, IAM, VPC, CloudWatch) | 
+**Data:**                          ETL/ELT pipelines, data modelling, feature engineering, Apache Spark (familiar) | 
+**Infrastructure:**               Docker, Kubernetes, Terraform, GitHub Actions CI/CD, Linux, Git
 
 ---
 
@@ -27,5 +32,5 @@ Let's team up! I'm specifically looking for opportunities to work on predictive 
 #### Contact  
 
 LinkedIn: [www.linkedin.com/in/eramnishat]  
-Email: [enishat1011@gmail.com]  
+Email: [mail.eramnishat@gmail.com]  
 
