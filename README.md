@@ -1,6 +1,5 @@
 ## Hi there, I'm Eram.
 I'm a Data Science student at IIT Madras, and I'm totally hooked on figuring out how machine learning can shake up and improve financial systems.
-My primary goal is to develop and apply machine learning expertise, especially within the financial technology (FinTech) sector.
 
 ---
 
